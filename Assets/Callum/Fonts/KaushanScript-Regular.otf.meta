@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a20bbcf941446d04082e6b3762fb5a90
+timeCreated: 1496848301
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kaushan Script
+  fontNames:
+  - Kaushan Script
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

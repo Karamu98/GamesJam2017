@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Karya/Scenes/MainMenu.unity
+    guid: 6d3d9312db2dc90439506f2390b734ff
+  - enabled: 1
+    path: Assets/Callum/Scenes/GameWorld.unity
+    guid: eafdf417be62b094f8720f6f6aba0f1b

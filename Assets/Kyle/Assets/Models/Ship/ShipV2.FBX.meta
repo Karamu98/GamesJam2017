@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 78d591462af21f143b9424d370bea001
+timeCreated: 1496875751
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back Mast
+    100002: Back Side ropes
+    100004: Back Sides ropes 2
+    100006: Bar034
+    100008: Bar035
+    100010: Bar036
+    100012: Bar037
+    100014: Bar038
+    100016: Bar039
+    100018: Bar040
+    100020: Bar041
+    100022: Box022
+    100024: Box023
+    100026: Cylinder018
+    100028: Front Mast
+    100030: Front ropes
+    100032: Group001
+    100034: Main Mast
+    100036: Main ship
+    100038: PhysCamera001.Target
+    100040: Rope 2
+    100042: Rope1
+    100044: //RootNode
+    100046: Side Ropes
+    100048: Side Ropes 2
+    400000: Back Mast
+    400002: Back Side ropes
+    400004: Back Sides ropes 2
+    400006: Bar034
+    400008: Bar035
+    400010: Bar036
+    400012: Bar037
+    400014: Bar038
+    400016: Bar039
+    400018: Bar040
+    400020: Bar041
+    400022: Box022
+    400024: Box023
+    400026: Cylinder018
+    400028: Front Mast
+    400030: Front ropes
+    400032: Group001
+    400034: Main Mast
+    400036: Main ship
+    400038: PhysCamera001.Target
+    400040: Rope 2
+    400042: Rope1
+    400044: //RootNode
+    400046: Side Ropes
+    400048: Side Ropes 2
+    2300000: Back Mast
+    2300002: Back Side ropes
+    2300004: Back Sides ropes 2
+    2300006: Box022
+    2300008: Box023
+    2300010: Cylinder018
+    2300012: Front Mast
+    2300014: Front ropes
+    2300016: Main Mast
+    2300018: Main ship
+    2300020: Rope 2
+    2300022: Rope1
+    2300024: Side Ropes
+    2300026: Side Ropes 2
+    3300000: Back Mast
+    3300002: Back Side ropes
+    3300004: Back Sides ropes 2
+    3300006: Box022
+    3300008: Box023
+    3300010: Cylinder018
+    3300012: Front Mast
+    3300014: Front ropes
+    3300016: Main Mast
+    3300018: Main ship
+    3300020: Rope 2
+    3300022: Rope1
+    3300024: Side Ropes
+    3300026: Side Ropes 2
+    4300000: Cylinder018
+    4300002: Box022
+    4300004: Box023
+    4300006: Main ship
+    4300008: Main Mast
+    4300010: Back Mast
+    4300012: Front Mast
+    4300014: Side Ropes 2
+    4300016: Side Ropes
+    4300018: Rope 2
+    4300020: Rope1
+    4300022: Back Side ropes
+    4300024: Back Sides ropes 2
+    4300026: Front ropes
+    7400000: Take 001
+    7400002: Main mast
+    7400004: Back mast
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Mast
+        weight: 1
+      - path: Back Side ropes
+        weight: 1
+      - path: Back Sides ropes 2
+        weight: 1
+      - path: Bar034
+        weight: 1
+      - path: Bar035
+        weight: 1
+      - path: Bar036
+        weight: 1
+      - path: Bar037
+        weight: 1
+      - path: Bar038
+        weight: 1
+      - path: Bar039
+        weight: 1
+      - path: Bar040
+        weight: 1
+      - path: Bar041
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Front Mast
+        weight: 1
+      - path: Front ropes
+        weight: 1
+      - path: Group001
+        weight: 1
+      - path: Group001/Cylinder018
+        weight: 1
+      - path: Main Mast
+        weight: 1
+      - path: Main ship
+        weight: 1
+      - path: PhysCamera001.Target
+        weight: 1
+      - path: Rope 2
+        weight: 1
+      - path: Rope1
+        weight: 1
+      - path: Side Ropes
+        weight: 1
+      - path: Side Ropes 2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Main mast
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Mast
+        weight: 0
+      - path: Back Side ropes
+        weight: 0
+      - path: Back Sides ropes 2
+        weight: 0
+      - path: Bar034
+        weight: 1
+      - path: Bar035
+        weight: 1
+      - path: Bar036
+        weight: 1
+      - path: Bar037
+        weight: 1
+      - path: Bar038
+        weight: 1
+      - path: Bar039
+        weight: 1
+      - path: Bar040
+        weight: 1
+      - path: Bar041
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Front Mast
+        weight: 1
+      - path: Front ropes
+        weight: 1
+      - path: Group001
+        weight: 1
+      - path: Group001/Cylinder018
+        weight: 1
+      - path: Main Mast
+        weight: 1
+      - path: Main ship
+        weight: 1
+      - path: PhysCamera001.Target
+        weight: 1
+      - path: Rope 2
+        weight: 1
+      - path: Rope1
+        weight: 1
+      - path: Side Ropes
+        weight: 1
+      - path: Side Ropes 2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Back mast
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Mast
+        weight: 1
+      - path: Back Side ropes
+        weight: 1
+      - path: Back Sides ropes 2
+        weight: 1
+      - path: Bar034
+        weight: 1
+      - path: Bar035
+        weight: 1
+      - path: Bar036
+        weight: 1
+      - path: Bar037
+        weight: 1
+      - path: Bar038
+        weight: 1
+      - path: Bar039
+        weight: 1
+      - path: Bar040
+        weight: 1
+      - path: Bar041
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Front Mast
+        weight: 1
+      - path: Front ropes
+        weight: 1
+      - path: Group001
+        weight: 1
+      - path: Group001/Cylinder018
+        weight: 1
+      - path: Main Mast
+        weight: 1
+      - path: Main ship
+        weight: 0
+      - path: PhysCamera001.Target
+        weight: 1
+      - path: Rope 2
+        weight: 0
+      - path: Rope1
+        weight: 0
+      - path: Side Ropes
+        weight: 0
+      - path: Side Ropes 2
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
